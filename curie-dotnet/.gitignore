@@ -1,0 +1,15 @@
+# .NET
+bin/
+obj/
+*.user
+*.suo
+.vs/
+.vscode/
+.idea/
+*.swp
+# dados gerados em execucao (o seed e versionado; o arquivo de trabalho nao)
+**/data/experimentos.json
+**/data/experimentos.json.tmp
+# sistema
+.DS_Store
+Thumbs.db

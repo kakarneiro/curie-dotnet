@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "nome": "Radiacao de fundo",
+    "objeto": "Ambiente da sala",
+    "categoria": "ambiente",
+    "cpmMin": 10,
+    "cpmMax": 40,
+    "nivel": 1,
+    "explicacao": "Mede a radiacao natural do ambiente (raios cosmicos e solo). E o ponto de partida para comparar todas as outras missoes.",
+    "publicado": true,
+    "criadoEm": "2026-10-01T09:00:00"
+  },
+  {
+    "id": 2,
+    "nome": "A banana radioativa",
+    "objeto": "Banana",
+    "categoria": "alimento",
+    "cpmMin": 12,
+    "cpmMax": 50,
+    "nivel": 1,
+    "explicacao": "A banana contem potassio-40, isotopo radioativo natural. Mostra que a radiacao esta nos alimentos e no proprio corpo.",
+    "publicado": true,
+    "criadoEm": "2026-10-01T09:05:00"
+  },
+  {
+    "id": 3,
+    "nome": "Sal light",
+    "objeto": "Cloreto de potassio (KCl)",
+    "categoria": "alimento",
+    "cpmMin": 20,
+    "cpmMax": 120,
+    "nivel": 2,
+    "explicacao": "O sal light substitui sodio por potassio, e o potassio-40 eleva a contagem. Ensina que a dose e o que importa.",
+    "publicado": true,
+    "criadoEm": "2026-10-01T09:10:00"
+  },
+  {
+    "id": 4,
+    "nome": "Granito da bancada",
+    "objeto": "Amostra de granito",
+    "categoria": "mineral",
+    "cpmMin": 15,
+    "cpmMax": 80,
+    "nivel": 2,
+    "explicacao": "Rochas como o granito contem tracos de uranio e torio. Radiacao de fundo varia com a geologia do lugar.",
+    "publicado": true,
+    "criadoEm": "2026-10-01T09:15:00"
+  },
+  {
+    "id": 5,
+    "nome": "Detector de fumaca",
+    "objeto": "Detector ionico (Am-241)",
+    "categoria": "domestico",
+    "cpmMin": 30,
+    "cpmMax": 400,
+    "nivel": 3,
+    "explicacao": "Detectores ionicos usam uma fonte selada de americio-241 para ionizar o ar. Tecnologia nuclear que salva vidas em casa.",
+    "publicado": true,
+    "criadoEm": "2026-10-01T09:20:00"
+  },
+  {
+    "id": 6,
+    "nome": "Medicina nuclear",
+    "objeto": "Conteudo teorico",
+    "categoria": "saude",
+    "cpmMin": 0,
+    "cpmMax": 0,
+    "nivel": 3,
+    "explicacao": "Missao teorica: como radiofarmacos produzidos no IPEN sao usados em diagnostico e tratamento. Sem medicao.",
+    "publicado": false,
+    "criadoEm": "2026-10-01T09:25:00"
+  },
+  {
+    "id": 7,
+    "nome": "Irradiacao de alimentos",
+    "objeto": "Conteudo teorico",
+    "categoria": "industria",
+    "cpmMin": 0,
+    "cpmMax": 0,
+    "nivel": 2,
+    "explicacao": "Como a radiacao gama e usada para esterilizar e conservar alimentos sem torna-los radioativos.",
+    "publicado": false,
+    "criadoEm": "2026-10-01T09:30:00"
+  }
+]
