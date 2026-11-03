@@ -2,7 +2,7 @@ using CurieCatalogo.Models;
 using CurieCatalogo.Repositories;
 using CurieCatalogo.Validation;
 
-namespace CurieCatalogo.Services;
+namespace CurieCatalogo.Services;     
 
 /// <summary>
 /// Regras de negocio do catalogo de experimentos.
