@@ -10,3 +10,4 @@ public enum Categoria
     Saude,
     Industria
 }
+         
